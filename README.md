@@ -60,15 +60,12 @@ Amazon-Sales-Dashboard/
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot here.
+> <img width="419" height="537" alt="amazon" src="https://github.com/user-attachments/assets/165af6d2-88c5-458c-98c4-ea44060fd7cb" />
 
-Example:
 
-```
-images/dashboard.png
-```
 
----
+
+
 
 ## 📈 Key Insights
 
@@ -102,7 +99,7 @@ https://www.youtube.com/watch?v=O9OUqf2y4LA
 **Nikhil Sharma**
 
 - LinkedIn: www.linkedin.com/in/nikhil-sharma-62b1b4227
-- GitHub: *(Add your GitHub Profile)*
+
 
 ---
 
