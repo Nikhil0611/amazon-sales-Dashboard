@@ -87,12 +87,6 @@ Amazon-Sales-Dashboard/
 
 ---
 
-## ▶️ Project Reference
-
-YouTube Tutorial:
-https://www.youtube.com/watch?v=O9OUqf2y4LA
-
----
 
 ## 📬 Connect with Me
 
